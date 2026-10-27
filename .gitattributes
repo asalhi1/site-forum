@@ -1,2 +1,0 @@
-publications/revues/ATRIUM29[[:space:]]IMP.pdf filter=lfs diff=lfs merge=lfs -text
-publications/revues/Revue[[:space:]]29.pdf !text !filter !merge !diff
