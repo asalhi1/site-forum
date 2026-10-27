@@ -1,0 +1,486 @@
+{
+  "source_page": "https://www.forumehtp-entreprises.com/#partenaires",
+  "retrieved_on": "2026-09-14",
+  "description": "Sponsor artwork from the existing Forum website. Category membership follows the supplied website; these are historical partners, not a confirmed roster for the upcoming edition. Original image bytes preserved.",
+  "logos": [
+    {
+      "name": "Ministère — partenaire institutionnel",
+      "file": "ministere-partenaire-institutionnel.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Ministere.png",
+      "bytes": 36555,
+      "sha256": "29ec7042c8622cfaaf78ca76d65cd88e102cd6f15b3b78912993414b977327d8",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "name": "ONCF",
+      "file": "oncf.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/ONCF.png",
+      "bytes": 55154,
+      "sha256": "6751982a46ebc299764b406a40d3bb61a9878ab314107185737157b736f85998",
+      "width": 400,
+      "height": 200
+    },
+    {
+      "name": "OCP",
+      "file": "ocp.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/OCP.png",
+      "bytes": 25716,
+      "sha256": "d7ba2d4cd92aab607106aa9a59ed1a2e4ca0b3cef2418f44841ce9acee084aa5",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "name": "CAPEP",
+      "file": "capep.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/CAPEP.png",
+      "bytes": 19494,
+      "sha256": "4753ae87fa5cbb09e602a7f14eea847c16e5185405660544d942830ca650ac77",
+      "width": 787,
+      "height": 219
+    },
+    {
+      "name": "Marsa Maroc",
+      "file": "marsa-maroc.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Marsamaroc-logo.png",
+      "bytes": 50000,
+      "sha256": "7c4656122fe17940bbecf184f47c9203a76659e65671c63f19a613f66dea9a21",
+      "width": 1000,
+      "height": 414
+    },
+    {
+      "name": "Stellantis",
+      "file": "stellantis.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/STELLANTIS.png",
+      "bytes": 1626,
+      "sha256": "9060d48735b8d6ec0fbd2e89c5afc20eea1e40ecd279caf4c833535633ce81f1",
+      "width": 267,
+      "height": 189
+    },
+    {
+      "name": "SGTM",
+      "file": "sgtm.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/SGTM-logo.png",
+      "bytes": 93347,
+      "sha256": "0b19d552760b89b32981f9fc892dbb40f08225dec0ba08fb2b8baa146878c8ae",
+      "width": 960,
+      "height": 960
+    },
+    {
+      "name": "CMS",
+      "file": "cms.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/cms.png",
+      "bytes": 5168,
+      "sha256": "384c67b78c33ff69f3d1a88c0a6cf51cf5187a45421c6ccb2336d22a01e806f1",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "name": "G3C",
+      "file": "g3c.jpg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/G3C.jpg",
+      "bytes": 38994,
+      "sha256": "2cbf6f2d9ee299931600e587ac5be904f77c218b53ebb42d27ce3947cdfdacf1",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "name": "CID",
+      "file": "cid.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/CID.png",
+      "bytes": 2270,
+      "sha256": "d3a3c0b119afb882a872003a0af5c840252a978385e36114dc438015cffbfff2",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "name": "VINCI",
+      "file": "vinci.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/VINCI.png",
+      "bytes": 50418,
+      "sha256": "ef83458de26bc623c2c51018eee67871f950849b21db02720fd6bc980b96b54e",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "name": "NGE",
+      "file": "nge.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/NGE.png",
+      "bytes": 24080,
+      "sha256": "4ebbd59006263cb7a6d62bd4653da818b082a7082e4644ec66a02b416bc2ef78",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "name": "Maghreb Steel",
+      "file": "maghreb-steel.jpg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Maghreb_Steel.jpg",
+      "bytes": 26252,
+      "sha256": "222da75212ba66e87b813e1fc639f5e7308cd4373e0dcecc4d2dfe7521de74c1",
+      "width": 1200,
+      "height": 321
+    },
+    {
+      "name": "SOGEA",
+      "file": "sogea.jpg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/SOGEA.jpg",
+      "bytes": 44651,
+      "sha256": "80b3099a230afba8c55e0367d1c5f4e620ee949c248d5943aeb22c75e2a02135",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "name": "ONDA",
+      "file": "onda.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/ONDA.png",
+      "bytes": 10587,
+      "sha256": "c5cb9d5f7b100333c717466a482da48f2d03433364eeb0be23b269037f31c664",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "name": "JESA",
+      "file": "jesa.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/JESA.png",
+      "bytes": 25964,
+      "sha256": "71f6551f3c48b8c45481866645f40692b6015f9e990c4e4b71020010d6adfaa2",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "name": "Tanger Med",
+      "file": "tanger-med.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Tanger-Med.png",
+      "bytes": 8033,
+      "sha256": "e57393c530e69e9b9b86bcb675041e43f9df294368bee101e94f5833d61a8489",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "name": "BUTEC",
+      "file": "butec.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/BUTEC.png",
+      "bytes": 1427,
+      "sha256": "f42ebb893e55e453e43e3d09a5a3ddff8fd5bd7de46e7c76e5b09ccbb9910211",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "name": "ATW",
+      "file": "atw.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/ATW.png",
+      "bytes": 16523,
+      "sha256": "f0d285736d63b7874b12439e97b34e4f9f0c12a5cb1f5d0ddaf530fe6cc36576",
+      "width": 724,
+      "height": 674
+    },
+    {
+      "name": "Lafarge Holcim Maroc",
+      "file": "lafarge-holcim-maroc.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/LAFARGpng.png",
+      "bytes": 2608,
+      "sha256": "1c801b25c0ebcffbf7a73c1d4c65ad190888194755674c264545c7d8a44a4216",
+      "width": 286,
+      "height": 176
+    },
+    {
+      "name": "Amendis",
+      "file": "amendis.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/AMENDISpng.png",
+      "bytes": 2406,
+      "sha256": "fc456b7c4fd193a34a2037821cbcb5fa0d2d79ef270f479026fd9c410a8bb26d",
+      "width": 275,
+      "height": 183
+    },
+    {
+      "name": "Redal",
+      "file": "redal.jpg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/REDAL.jpg",
+      "bytes": 28041,
+      "sha256": "6df21e375605a65c63186b7d6f3684e6a7a2ed90f838f3e4f566ebcce5c0aebd",
+      "width": 800,
+      "height": 472
+    },
+    {
+      "name": "Veolia",
+      "file": "veolia.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/VEOLIA.png",
+      "bytes": 2365,
+      "sha256": "002d602d56eda9da664242b6241f1181f41d45c28da0dce109e8e4db212faad7",
+      "width": 352,
+      "height": 143
+    },
+    {
+      "name": "LPEE",
+      "file": "lpee.jpg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/lpee.jpg",
+      "bytes": 5429,
+      "sha256": "e89200eca747412fc40b5239113bc712138c59a7ea7c474a9e9e1403adb676db",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "name": "EM",
+      "file": "em.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/EMpng.png",
+      "bytes": 2632,
+      "sha256": "9aa843e7887464b0d7b4b6b5b188688a18e4bef0eefa2d0550ea88d70a10587e",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "name": "Valyans Consulting",
+      "file": "valyans-consulting.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/valyans-consulting.png",
+      "bytes": 68056,
+      "sha256": "9284372eef3c4bd029cdf3669869a64e77d0eb8f7f58183e56129efea6da9b46",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "name": "GIDNA",
+      "file": "gidna.jpg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/GIDNA.jpg",
+      "bytes": 15345,
+      "sha256": "cc3904fe8065fc33f6f204aa04275368e832a7233351332d17d5b804b9f466ba",
+      "width": 736,
+      "height": 385
+    },
+    {
+      "name": "NARSA",
+      "file": "narsa.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/narsa.png",
+      "bytes": 187006,
+      "sha256": "7f7a314928a65e9822807279f467bc89dfd01d33a4eeff22ab981d165bd1f820",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "name": "EMB",
+      "file": "emb.webp",
+      "source_url": "https://www.forumehtp-entreprises.com/images/EMB.png",
+      "bytes": 4418,
+      "sha256": "158ae3726108d38ee6db0c6bddcd0d1c13fdd591c985af96221161a2cdabe682",
+      "width": 225,
+      "height": 135
+    },
+    {
+      "name": "Egis",
+      "file": "egis.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/EGIS.png",
+      "bytes": 50372,
+      "sha256": "0acb224ad763dd3c4bf8ce7e2db17ffceb3531beb5d21607748c5704d2e33ee5",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "name": "PREFA",
+      "file": "prefa.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/PREFApng.png",
+      "bytes": 4484,
+      "sha256": "9e064da72869a7692afc4cb24a5499c23162539873f2b3e7e8789e0a2bb94505",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "name": "Hilti",
+      "file": "hilti.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Hilti.png",
+      "bytes": 426,
+      "sha256": "7a9029f850d9625e95301fdd61c02d72dfcb771775a8d070e4f4d214775bd022",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "name": "Wafa Assurance",
+      "file": "wafa-assurance.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/WafaAssurance.png",
+      "bytes": 49965,
+      "sha256": "e5489ce8c2e4b5e0ebe0351fa507f97791ec437b44b54350cfe96555d8c82e13",
+      "width": 1201,
+      "height": 631
+    },
+    {
+      "name": "TGCC",
+      "file": "tgcc.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/TGCC.png",
+      "bytes": 3192,
+      "sha256": "0afb2efd8245e7531081ca54bbaf0cdf1ac262230e2c550f87e0ba31237531cc",
+      "width": 319,
+      "height": 158
+    },
+    {
+      "name": "Sika",
+      "file": "sika.svg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Sika.svg",
+      "bytes": 10006,
+      "sha256": "0ca01df5dcaa502c4cfb563955c765f55229e6a78bc791cbe5164a4ad5bb7496",
+      "viewBox": "0 0 209.17332 228.54668",
+      "width": "209.17332",
+      "height": "228.54668"
+    },
+    {
+      "name": "ANP",
+      "file": "anp.jpg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/ANP.jpg",
+      "bytes": 10266,
+      "sha256": "7d0f61702dbb7b2a55c17cbeae75bd73fbc3f21c1527c22e56f4a43304186ae6",
+      "width": 1174,
+      "height": 675
+    },
+    {
+      "name": "HPS",
+      "file": "hps.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/HPS.png",
+      "bytes": 3534,
+      "sha256": "bcd907d20dd4ca51ff3870616831bb5cc56a32247a9e69f0d446b2f6774b0823",
+      "width": 318,
+      "height": 159
+    },
+    {
+      "name": "Saint-Gobain",
+      "file": "saint-gobain.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Saint-Gobain_logo.svg.png",
+      "bytes": 44194,
+      "sha256": "e305291e01d3fccd2c2067e933a8ff3df5506a84d2b57531e06c0d34bcaffdc0",
+      "width": 1200,
+      "height": 510
+    },
+    {
+      "name": "Nestlé",
+      "file": "nestle.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/NESTLE.png",
+      "bytes": 7046,
+      "sha256": "cfdddee603ffb6398bf8c77a2474cbaf7ef792179a0267b70068611ff694f118",
+      "width": 222,
+      "height": 227
+    },
+    {
+      "name": "Banque Populaire",
+      "file": "banque-populaire.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/banque-populaire.png",
+      "bytes": 6319,
+      "sha256": "0006252d4d9667578702166e0a851c60cae0892a4952a17321d4065da07d6ef7",
+      "width": 320,
+      "height": 320
+    },
+    {
+      "name": "Al Omrane",
+      "file": "al-omrane.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Al-Omrane.png",
+      "bytes": 201759,
+      "sha256": "e997bc2a1feab14299233019f52e3bf9e1d28d8854635172c902826ed930d5b3",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "name": "INBS",
+      "file": "inbs.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/INBS.png",
+      "bytes": 10965,
+      "sha256": "7961a7c6609b78903e05875e726fb7c994ccdc7032a55c7d53900b441c3e2b18",
+      "width": 279,
+      "height": 181
+    },
+    {
+      "name": "Labo Test",
+      "file": "labo-test.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Labo-test.png",
+      "bytes": 240078,
+      "sha256": "e8da2aec777a889254ebd290c97fa6f46cbee90fedf777ada16ce74b27b66e3d",
+      "width": 4608,
+      "height": 2916
+    },
+    {
+      "name": "ANEP",
+      "file": "anep.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/ANEP.png",
+      "bytes": 17287,
+      "sha256": "73b2571ff85122a7281fcb62f75c97f2f16118cbc5a3f9ec51624a000b825407",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "name": "MK4",
+      "file": "mk4.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/MK4.png",
+      "bytes": 6875,
+      "sha256": "8847f0f575e6f5f6b82aec26287f9f153080cd23dce2a29953c95aaae6ba0366",
+      "width": 225,
+      "height": 224
+    },
+    {
+      "name": "EDHEC",
+      "file": "edhec.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/EDHEC.png",
+      "bytes": 3255,
+      "sha256": "b5fe33e48d8c1500e433835171a7b0ad89ce65747e931c439b425b3e0d4580d8",
+      "width": 267,
+      "height": 189
+    },
+    {
+      "name": "BMCE",
+      "file": "bmce.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/BMCE.png",
+      "bytes": 507498,
+      "sha256": "a14d014755ffd4e63873a0c229f0086b81de7e83077f307b1c5152961da118aa",
+      "width": 1920,
+      "height": 964
+    },
+    {
+      "name": "Autoroutes du Maroc",
+      "file": "autoroutes-du-maroc.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/autoroute-du-maroc.png",
+      "bytes": 47872,
+      "sha256": "420b6cc6638fc349aa878571fa018d44d05a6a4e8dfcdc3d2ccc77b9edd87ec4",
+      "width": 298,
+      "height": 264
+    },
+    {
+      "name": "SOREC",
+      "file": "sorec.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/SOREC.png",
+      "bytes": 4332,
+      "sha256": "41c551e14cf639e38bbc89c1edd3ee27d226158ee940f97d43ccb672c6c529da",
+      "width": 291,
+      "height": 173
+    },
+    {
+      "name": "Kettani",
+      "file": "kettani.svg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/kettani-logo.svg",
+      "bytes": 5047,
+      "sha256": "6d8224e790ea0e213cf13786ec096492dc762bffe457a74c2ae8d00293d29a78",
+      "viewBox": "0 0 5054.021 1608.643",
+      "width": "5054.021px",
+      "height": "1608.643px"
+    },
+    {
+      "name": "Fidaroc",
+      "file": "fidaroc.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/FIDAROC.jpg",
+      "bytes": 20414,
+      "sha256": "6b8117758120a7d054bd253498de382e7c3fd439f297fd5572a614d0dd92c981",
+      "width": 385,
+      "height": 141
+    },
+    {
+      "name": "Novec",
+      "file": "novec.jpg",
+      "source_url": "https://www.forumehtp-entreprises.com/images/Novec.jpg",
+      "bytes": 17927,
+      "sha256": "1a9d706939ca779dec16235f0c2536a89c49ded08992c98a943b35a097de57bb",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "name": "Rekrute",
+      "file": "rekrute.png",
+      "source_url": "https://www.forumehtp-entreprises.com/images/REKRUTE.png",
+      "bytes": 127465,
+      "sha256": "a60da91e351776440ef20173e8e5aacc0a358d85abf60b361636dde1c266f2a8",
+      "width": 1200,
+      "height": 1200
+    }
+  ]
+}
